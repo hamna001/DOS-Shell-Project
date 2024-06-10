@@ -1,0 +1,11 @@
+﻿  DOS.cpp
+C:\Users\hamna\source\repos\DSA final Project DOS Shell\DSA final Project DOS Shell\Folder.h(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamna\source\repos\DSA final Project DOS Shell\DSA final Project DOS Shell\Folder.h(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamna\source\repos\DSA final Project DOS Shell\DSA final Project DOS Shell\Folder.h(81,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamna\source\repos\DSA final Project DOS Shell\DSA final Project DOS Shell\Folder.h(105,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamna\source\repos\DSA final Project DOS Shell\DSA final Project DOS Shell\Folder.h(134,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamna\source\repos\DSA final Project DOS Shell\DSA final Project DOS Shell\Folder.h(138,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamna\source\repos\DSA final Project DOS Shell\DSA final Project DOS Shell\Tree.h(49,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamna\source\repos\DSA final Project DOS Shell\DSA final Project DOS Shell\Tree.h(61,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamna\source\repos\DSA final Project DOS Shell\DSA final Project DOS Shell\Tree.h(73,27): warning C4018: '<': signed/unsigned mismatch
+  DSA final Project DOS Shell.vcxproj -> C:\Users\hamna\source\repos\DSA final Project DOS Shell\Debug\DSA final Project DOS Shell.exe
